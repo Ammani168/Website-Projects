@@ -55,6 +55,20 @@ Signup form with client-side validation for name, email, DOB, password, confirm 
 - Terms & conditions verification  
 
 ---
+### 4. React AI Trip Planner
+**Tech Stack:** Tech: React, Vite, Tailwind, AI API Integration
+
+A smart travel planning app built with React that uses AI to generate personalized itineraries. Users can enter their destination, budget, and trip duration, and the app instantly creates a day-wise travel plan.
+
+
+🔗 **GitHub Repo:** *(https://github.com/Ammani168/React AI Trip Planner)*  
+📌 **Features**
+     - AI itinerary generation
+     - Destination suggestions
+     - Responsive UI
+     - Fast performance
+
+---
 
 ## 📫 Contact
 - **Email:**  gammani2003@gmail.com
