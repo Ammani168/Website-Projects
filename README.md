@@ -70,6 +70,23 @@ A smart travel planning app built with React that uses AI to generate personaliz
 
 ---
 
+### 👟 5.Nike Shoe Website – Modern Product Showcase
+🛠️ Tech Stack: HTML5 ,CSS3 ,JavaScript
+
+A sleek and responsive Nike-themed shoe website built to highlight product design, user experience, and clean frontend development.
+This project showcases modern UI layouts, animations, and product presentation—perfect for portfolios and frontend practice.
+
+🔗 **GitHub Repo:** *(https://github.com/Ammani168/Nike-Shoes)* 
+🔥 Features
+- Stylish Nike-inspired landing page
+- Product cards with images, price, and description
+- Smooth animations and hover effects
+- Fully responsive design (mobile → desktop)
+- Clean HTML/CSS/JavaScript structure
+- Modern typography and color palette
+
+---
+
 ## 📫 Contact
 - **Email:**  gammani2003@gmail.com
 - **GitHub:** https://github.com/Ammani168 
